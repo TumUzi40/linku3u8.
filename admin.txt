@@ -1,5 +1,5 @@
 {
-   "name": "SAMU Tv",
+   "name": "รรรรร",
    "author": "TEST",
    "url": "http://samupro.42web.io/TV/COPY_TV.txt",
    "image": "https://raw.githubusercontent.com/TumUzi40/img/refs/heads/main/ChatGPT%20Image%2021%20%E0%B9%80%E0%B8%A1.%E0%B8%A2.%202569%2001_12_13.png",
