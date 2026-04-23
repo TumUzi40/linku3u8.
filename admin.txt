@@ -21,51 +21,7 @@
 				"info": "For ของฝากนักก็อปน่ะครับ",
 				"import": false},
  
-             {
-				"name": "Sport_Thai",
-				"image": "https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg",  
-				"url": "https://raw.githubusercontent.com/cattv976/SportThai.w3u/refs/heads/main/sportthai",
-				"info": "For ของฝากนักก็อปน่ะครับ",
-				"import": false},
-
-
- {
-				"name": "SIAMLINK ONLINE", 
-				"image": "https://raw.githubusercontent.com/TumUzi40/img/refs/heads/main/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%20SIAMLINK%20TV%20ONLINE%20%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%AA.png", 
-				"url": "http://samupro.42web.io/SAMURAI/testipv/station.txt",
-				"info": "For แงะมา",
-				"import": false},
-
- {
-				"name": "Free Tv", 
-				"image": "https://raw.githubusercontent.com/TumUzi40/img/refs/heads/main/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%88%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%AA.png", 
-				"url": "https://tinyurl.com/ya3zvuuw",
-				"info": "For แงะมา",
-				"import": false},
- 
-
-
-{
-				"name": "NONFREE HD", 
-				"image": "https://raw.githubusercontent.com/TumUzi40/img/refs/heads/main/ChatGPT%20Image%2021%20%E0%B9%80%E0%B8%A1.%E0%B8%A2.%202569%2001_09_01.png", 
-				"url": "http://samupro.42web.io/TV/กระจอก.txt",
-				"info": "For แงะมา",
-				"import": false},
-           
-  
-{
-				"name": "SAMU+", 
-				"image": "https://raw.githubusercontent.com/TumUzi40/img/refs/heads/main/ChatGPT%20Image%2023%20%E0%B9%80%E0%B8%A1.%E0%B8%A2.%202569%2017_28_59.png", 
-				"url": "https://raw.githubusercontent.com/TumUzi40/linku3u8./refs/heads/main/samu%2B.txt",
-				"info": "For",
-				"import": false}, 
-
-{
-				"name": "ADMIN HD", 
-				"image": "https://raw.githubusercontent.com/TumUzi40/img/refs/heads/main/ChatGPT%20Image%2023%20%E0%B9%80%E0%B8%A1.%E0%B8%A2.%202569%2017_49_48.png", 
-				"url": "https://raw.githubusercontent.com/TumUzi40/linku3u8./refs/heads/main/admin.txt",
-				"info": "รอเพิ่ม",
-				"import": false},          
+                       
  
 ]
 }
