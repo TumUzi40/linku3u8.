@@ -5,11 +5,7 @@
  "url": "https://raw.githubusercontent.com/TumUzi40/linku3u8./refs/heads/main/samu%2B.txt",
  "groups":
 [
-{
-"name": "กดก่อนดูทุกครั้ง",
-"image": "https://img.freepik.com/premium-vector/refresh-button_579710-23.jpg",
-"url": "https://raw.githubusercontent.com/TumUzi40/linku3u8./refs/heads/main/samu%2B.txt"
-},
+
 
 
 {"name":"1️⃣ HAWA-232 Cheat หลอกมาเปรี้ยว แฟนเฟี้ยวสลับคู่","image":"https://avsubthai.me/wp-content/uploads/2024/07/1hawa232pl-400x231.jpg",
