@@ -1,1 +1,103 @@
+{
+    "name": "ทีมงานพลังหนุ่ม",
+    "author": "ឃៀនជុកណូយ",
+    "image": "http://116.204.180.87:82/img/run_ic.png",
+    "url": "http://116.204.180.87:82/samuza/u3u8.txt",
+    "groups": [
 
+    {
+    "name": "กด Refresh",
+    "image": "http://116.204.180.87:82/IMG/Animated_Meta.gif",
+    "url": "http://116.204.180.87:82/samuza/u3u8.txt",
+    "info": "refers",
+    "import": true
+    },    
+
+    {
+    "name": "ดิจิตอล ทีวี",
+    "image": "https://v1.igetweb.com/www/aosat/article/art_42205644.png",
+    "url": "http://116.204.180.87:82/samuza/tv.txt",
+    "import": "true"
+    },
+
+    {
+    "name": "ServerAV",
+    "image": "http://116.204.180.87:82/IMG/cat_ic1.gif",
+    "url": "http://116.204.180.87:82/samuza/avxserver.txt",
+    "import": "true"
+    },
+
+
+    {
+    "name": "ServerAV2",
+    "image": "http://116.204.180.87:82/IMG/cat_ic2.gif",
+    "url": "http://116.204.180.87:82/samuza/avxserver2.txt",
+    "import": "true"
+    },
+
+    {
+    "name": "กีฬา",
+    "image": "http://116.204.180.87:82/samuza/Logo-YouTube.png",
+    "url": "https://drive.google.com/uc?id=15OzhkcmvJI95kvKH9Fq99knEBCb0G0T0",
+    "import": "true"
+    },
+
+
+
+    {
+    "name": "server ข้าวต้มมัด",
+    "image": "http://116.204.180.87:82/IMG/cat_ic3.gif",
+    "url": "https://bit.ly/doodoofree",
+    "import": "true"
+
+    },
+
+    {
+    "name": "server new ",
+    "image": "http://116.204.180.87:82/IMG/cat_ic4.gif",
+    "url": "http://116.204.180.87:82/samuza/u3u15.txt",
+    "import": "true"
+
+    },
+
+
+    {
+    "name": "RED STAR",
+    "image": "http://116.204.180.87:82/img/run_ic.png",
+    "url": "https://pastebin.com/raw/Bx029SPx",
+    "import": "true"
+
+    },
+
+    {
+    "name": "Playlist15-2-2025",
+    "image": "http://116.204.180.87:82/img/run_ic.png",
+    "url": "http://116.204.180.87:82/samuza/Playlist15-2-2025.txt",
+    "import": "true"
+
+    },
+
+    {
+    "name": "MY IPTV 2025(By@Aody)",
+    "image": "http://116.204.180.87:82/img/run_ic.png",
+    "url": "https://shorturl.asia/OUkRQ",
+    "import": "true"
+
+    },
+
+
+    {
+    "name": "",
+    "image": "http://116.204.180.87:82/IMG/ninja-bt.gif",
+    "url": "",
+    "import": "true"
+
+    },
+
+
+
+
+    ]
+    }
+    
+}
