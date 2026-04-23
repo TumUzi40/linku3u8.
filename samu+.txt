@@ -2,9 +2,14 @@
  "name":"SAMU+",
  "author": "กำลังแก้ไข 23/04/26",
  "image": "https://raw.githubusercontent.com/TumUzi40/img/refs/heads/main/ChatGPT%20Image%2023%20%E0%B9%80%E0%B8%A1.%E0%B8%A2.%202569%2017_28_59.png",
- "url": "http://116.204.180.87:82/samuza/like/hawa.w3u",
+ "url": "https://raw.githubusercontent.com/TumUzi40/linku3u8./refs/heads/main/samu%2B.txt",
  "groups":
 [
+{
+"name": "กดก่อนดูทุกครั้ง",
+"image": "https://img.freepik.com/premium-vector/refresh-button_579710-23.jpg",
+"url": "https://raw.githubusercontent.com/TumUzi40/linku3u8./refs/heads/main/samu%2B.txt"
+},
 
 
 {"name":"1️⃣ HAWA-232 Cheat หลอกมาเปรี้ยว แฟนเฟี้ยวสลับคู่","image":"https://avsubthai.me/wp-content/uploads/2024/07/1hawa232pl-400x231.jpg",
