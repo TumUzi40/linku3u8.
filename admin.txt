@@ -19,13 +19,13 @@
     "url": "https://raw.githubusercontent.com/TumUzi40/Linkip/refs/heads/main/JAV%20WISEPLAY%20-%20pTFB5zvL.m3u",
     "import": "true"
 
-    {
-    "name": "",
-    "image": "http://116.204.180.87:82/IMG/ninja-bt.gif",
-    "url": "",
-    "import": "true"
-
     },
+
+
+
+
+
+
 
 
 
