@@ -26,10 +26,15 @@
     "image": "https://raw.githubusercontent.com/TumUzi40/img/refs/heads/main/ChatGPT%20Image%2024%20%E0%B9%80%E0%B8%A1.%E0%B8%A2.%202569%2008_19_26.png",
     "url": "https://raw.githubusercontent.com/TumUzi40/Linkip/refs/heads/main/JAV%20UNCENSORED%20-%20Vh9FySgz.m3u",
     "import": "true"
-
     },
 
-
+{
+"name": "หนัง ผู้ใหญ่",
+"author": "55", 
+"image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
+"import": "true"
+},      
 
 
 
