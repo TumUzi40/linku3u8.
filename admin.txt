@@ -40,7 +40,7 @@
 "name": "557",
 "author": "55", 
 "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
-"url": "https://raw.githubusercontent.com/TumUzi40/linku3u8./refs/heads/main/sexedu4.txt",
+"url": "https://raw.githubusercontent.com/TumUzi40/linku3u8./refs/heads/main/sexedu.txt",
 "import": "true"
 },      
 
