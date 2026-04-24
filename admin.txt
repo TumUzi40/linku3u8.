@@ -18,8 +18,17 @@
     "image": "https://raw.githubusercontent.com/TumUzi40/img/refs/heads/main/ChatGPT%20Image%2023%20%E0%B9%80%E0%B8%A1.%E0%B8%A2.%202569%2017_49_48.png",
     "url": "https://raw.githubusercontent.com/TumUzi40/Linkip/refs/heads/main/JAV%20WISEPLAY%20-%20pTFB5zvL.m3u",
     "import": "true"
+    },
+
+
+    {
+    "name": "JAV UNCENSORED",
+    "image": "https://raw.githubusercontent.com/TumUzi40/img/refs/heads/main/ChatGPT%20Image%2023%20%E0%B9%80%E0%B8%A1.%E0%B8%A2.%202569%2017_49_48.png",
+    "url": "https://raw.githubusercontent.com/TumUzi40/Linkip/refs/heads/main/JAV%20UNCENSORED%20-%20Vh9FySgz.m3u",
+    "import": "true"
 
     },
+
 
 
 
